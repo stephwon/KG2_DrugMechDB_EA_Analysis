@@ -37,7 +37,7 @@ To begin your analysis or reproduce the results, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/xDTD-Analysis.git
+   git clone https://github.com/your-username/KG2_DrugMechDB_EA_Analysis.git
 
 2. Navigate the project directory.
 
