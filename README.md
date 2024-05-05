@@ -8,10 +8,10 @@ This repository is dedicated to the investigation and analysis of entity normali
 
 1. **Investigate Entity (Node) Variances:**
    - Explore and analyze differences between KG2 and DrugMechDB.
-   - Conduct entity normalization and alignment between two graph data
+   - Conduct entity normalization and alignment between two graph data.
    
 2. **Statistical Analysis:**
-   - Assess entity normalization and alignment performance
+   - Assess entity normalization and alignment performance.
 
 ## Repository Contents
 Each script contains the data location and instructions necessary to perform each analysis. To conduct the analysis, use the scripts (`.ipynb`) in the following order below:
@@ -39,7 +39,7 @@ To begin your analysis or reproduce the results, follow these steps:
    ```bash
    git clone https://github.com/your-username/xDTD-Analysis.git
 
-2. Navigate the project directory:
+2. Navigate the project directory.
 
 3. Import, download, and decompress the data files. The location of the data for each analysis is provided in each Jupyter Notebook script.
 
