@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the directory where your files are located
-data_dir="/scratch/sjw6257/KG2_data"
+data_dir="/your/path_"
 
 # Loop through each directory in the data directory
 for dir in "$data_dir"/*/; do
