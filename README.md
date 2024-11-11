@@ -27,7 +27,7 @@ Each script contains the data location and instructions necessary to perform eac
 5. `KG2.8.4c` and `KG2.9.0c` directories contain YAML files of the analysis results and figures (PNG). Each directory contains `figure` directories, which contain the visual output results of the analysis (non-interactive). These figures are saved as PNG files.
 
 ## Data
-To conduct or reproduce the entity analysis. You will need [DrugMechDB MOA file](https://github.com/SuLab/DrugMechDB/blob/main/indication_paths.yaml) and KG2 versions 2.8.4c and 2.9.0c. Contact [RTX-KG2 team](https://github.com/RTXTeam/RTX) to request access to the knowledge graphs.
+To conduct or reproduce the entity analysis, you will need [DrugMechDB MOA file](https://github.com/SuLab/DrugMechDB/blob/main/indication_paths.yaml) and KG2 versions 2.8.4c and 2.9.0c. Contact [RTX-KG2 team](https://github.com/RTXTeam/RTX) to request access to the knowledge graphs.
 
 
 
